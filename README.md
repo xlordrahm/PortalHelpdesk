@@ -1,4 +1,0 @@
-PortalHelpdesk
-==============
-
-Portal Helpdesk
